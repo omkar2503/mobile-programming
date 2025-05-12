@@ -1,0 +1,41 @@
+name: tpo_app
+description: "A new Flutter project."
+
+# Prevent accidental publishing to pub.dev
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# Versioning
+version: 1.0.0+1
+
+# SDK constraints
+environment:
+  sdk: ^3.7.0
+
+# Dependencies
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # File picker for selecting files (e.g., resumes)
+  file_picker: ^9.0.0
+
+  # Open files (e.g., PDFs) in the default app
+  open_file: ^3.3.2
+
+  # Cupertino Icons for iOS-style icons
+  cupertino_icons: ^1.0.8
+
+# Dev dependencies
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Linting for good coding practices
+  flutter_lints: ^5.0.0
+
+# Flutter-specific configuration
+flutter:
+  # Include Material Icons
+  uses-material-design: true
+  assets:
+    - assets/college_logo.png

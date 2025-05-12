@@ -1,0 +1,27 @@
+name: portfolio
+description: "A Flutter portfolio project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  url_launcher: ^6.2.6 # Added for opening URLs
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/omkar_jadhav.jpg  # Fixed duplicate entries and spaces in filename

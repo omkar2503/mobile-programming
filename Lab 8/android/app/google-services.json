@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "53597007239",
+    "project_id": "database-app-eb6cb",
+    "storage_bucket": "database-app-eb6cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53597007239:android:20a20844fd255f1220f722",
+        "android_client_info": {
+          "package_name": "com.database_base"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjpQx4lYtlvaljeA81jIPmcT8QhRwajfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53597007239:android:1617f446cbe89dbf20f722",
+        "android_client_info": {
+          "package_name": "com.example.database_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjpQx4lYtlvaljeA81jIPmcT8QhRwajfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
